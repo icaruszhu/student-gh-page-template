@@ -21,7 +21,7 @@ author: Chen Wei Zhu
 There are two files in the repo you need to personalise in order to create your own site. I use some placeholder words such as the fictitious student name "Tem Plate" and the fabled "University of Rashomon ".  Please do change them as they only exist in [Meinong's jungle](https://en.wikipedia.org/wiki/Meinong%27s_jungle):-)
 
 ##  1) ```index.md``` 
-```index.md``` is the file where your CV live. You can add information such as your background, education, experience, award, hobby, aspiration etc. 
+```index.md``` is the file where your CV lives. You can add information such as your background, education, experience, award, hobby, aspiration etc. 
 
 ## 2) ```_config.yml``` 
 You definite need to modify ``_config.yml```, especially these two places:
@@ -55,7 +55,7 @@ There are a lot more you can customise. For example, you can change layout files
  
   git push --set-upstream origin gh-pages # link the local gh-pages with the remote gh-pages
 ```
-Now, it's done! It may take a small while for your site live. So be a bit patient.
+Now, it's done! It may take a small while for your site to go live. So be a bit patient.
 
 p.s. Since you are going to work onlny with the newly created ```gh-pages``` in future for your personal site, you may choose to delete the remote  ```master``` branch by  typing this command in the terminal:
 ~~~bash
