@@ -3,7 +3,7 @@ author: Chen Wei Zhu
 ---
 # Personal site template for Chen's personal tutees
 
-- This  template is made by [Yet Another Legal Academic (YALA)](https://icaruszhu.github.io/) initially for my personal tutees at Birmingham Law School. Please feel free to download, fork, alter, remix, or do whatever you want with the repo template to suit your own need. It is licensed under the permissive MIT License.
+- This  template is made by [Yet Another Legal Academic (YALA)](https://icaruszhu.github.io/)  for my personal tutees at Birmingham Law School. Please feel free to download, fork, alter, remix, or do whatever you want with the repo template to suit your own need. It is licensed under the permissive MIT License.
 
 - You can delete this README.md page later if you wish. 
 
@@ -12,10 +12,10 @@ author: Chen Wei Zhu
 
 # Download this repo 
 
-- using your favourite command line terminal with ```git```
+- Use your favourite command line terminal with ```git```
 ```git clone https://github.com/icaruszhu/student-gh-page-template.git```
 
-- alternatively, you can use the old-fashioned method by hitting the ```download``` button
+- Alternatively, you can use the old-fashioned method by hitting the ```download``` button
 
 # Modification for a quick start
 There are two files in the repo you need to personalise in order to create your own site. I use some placeholder words such as the fictitious student name "Tem Plate" and the fabled "University of Rashomon ".  Please do change them as they only exist in [Meinong's jungle](https://en.wikipedia.org/wiki/Meinong%27s_jungle):-)
@@ -57,7 +57,7 @@ There are a lot more you can customise. For example, you can change layout files
 ```
 Now, it's done! It may take a small while for your site live. So be a bit patient.
 
-p.s. Since you are going to work only with the newly created ```gh-pages``` in future for your personal site, you may choose to delete the remote  ```master``` branch by  typing this command in the terminal:
+p.s. Since you are going to work onlny with the newly created ```gh-pages``` in future for your personal site, you may choose to delete the remote  ```master``` branch by  typing this command in the terminal:
 ~~~bash
       git push origin :master
 ~~~
