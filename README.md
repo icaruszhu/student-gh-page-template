@@ -38,9 +38,24 @@ There are a lot more you can customise. For example, you can change layout files
 # Create your ```gh-pages``` 
 - Finally, you will need to create your site to be hosted by github pages. You can have a domain name  with your github ```UserName```, i.e., [UserName].github.io. The guide https://guides.github.com/features/pages/ provides a detailed guide.
 
-- Alternatively, you can also store your personal site as a normal git project and then create a ```gh-pages```  branch to host html contents. 
+- Alternatively, you can also store your personal site as a normal git project and then create a ```gh-pages```  branch to host html contents.  This branch needs to be created both remotely and locally. 
 
-- Either way, you can simply copy and paste everything in this template repo into your local directory or folder where you wish your personal site files to live.
+	- Remotely, create a gh-pages on from github. See the screenshot below
+	
+	  <img src="https://raw.githubusercontent.com/icaruszhu/student-gh-page-template/gh-pages/image/shot-create-gh-pages-branch.png" alt="create gh-pages branch on github" style="zoom:80%;" />
+	
+	  You can check if this ```gh-pages``` branch is created. Here is another screenshot that ```gh-pages``` has indeed be created and ticked!
+	
+	  <img src="https://raw.githubusercontent.com/icaruszhu/student-gh-page-template/gh-pages/image/shot-new-gh-pages-created.png" alt="gh-pages branch is created" style="zoom:80%;" />
+	
+	-  Locally, create a ```gh-pages``` in your git repo on your laptop from the terminal. Copy and paste the below two lines of code:
+
+```bash
+ git checkout -b gh-pages  # create a local gh-pages brach
+ 
+ git push --set-upstream origin gh-pages # link the local gh-pages with the remote gh-pages
+```
+Now, it's done! It may take a small while for your site live. So be a bit patient.
 
 # Next step: when you become a more advanced user ...
 
