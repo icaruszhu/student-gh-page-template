@@ -1,0 +1,29 @@
+# Setup
+
+title: [Tem Plate]
+description:  Law Student @ Birmingham Law School
+tagline: 
+baseurl: ""
+locale: "en"
+
+author: student name 
+email: name@e.mail
+
+
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-architect
+
+include:
+    - _pages
+  
+# Gems
+gems:
+  - jekyll-paginate
+
+  
+# url
+url: 'https://www.birmingham.ac.uk/schools/law/index.aspx'
+  
+#Others
+markdown: kramdown
