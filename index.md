@@ -16,7 +16,7 @@ English (native), Chinese
 
 - High School: Hogwarts College of Witchcraft and Wizardry (UK)
 - First degree: BA in Akira Kurosawa Studies, University of Rashomon (羅生門大學), Japan
-- Second degree: LLB for Graduate: University  of Birmingham (UK)
+- Second degree: LLB for Graduate, University  of Birmingham (UK)
 
 # Honour and Achievement
 
