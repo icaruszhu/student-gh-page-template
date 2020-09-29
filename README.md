@@ -1,6 +1,8 @@
 ---
 author: Chen Wei Zhu
 ---
+[![DOI](https://zenodo.org/badge/299578130.svg)](https://zenodo.org/badge/latestdoi/299578130)  
+
 # Personal site template for Chen's personal tutees
 
 - This  template is made by [Yet Another Legal Academic (YALA)](https://icaruszhu.github.io/)  for my personal tutees at Birmingham Law School. Please feel free to download, fork, alter, remix, or do whatever you want with the repo template to suit your own need. It is licensed under the permissive MIT License.
