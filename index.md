@@ -10,7 +10,7 @@ Aspirational and hardworking young lawyer interested in law and technology  @ Bi
 
 # Language 
 
-English (native), Chinese (fluent), Scottish Gaelic (basic) 
+English (fluent), Chinese (native), Scottish Gaelic (basic) 
 
 # Education
 
@@ -18,7 +18,7 @@ English (native), Chinese (fluent), Scottish Gaelic (basic)
 - First degree: BA in Akira Kurosawa Studies, University of Rashomon (羅生門大學), Japan
 - Second degree: LLB for Graduate, University  of Birmingham (UK)
 
-# Honour and Achievement
+# Achievement
 
 
 # Internship
@@ -39,5 +39,10 @@ English (native), Chinese (fluent), Scottish Gaelic (basic)
 
 # Contact
 
+Email:
+
+Snail Mail:
+
 # YALA's Note 
+
 This template CV contains placeholder contents originally written by [YALA](https://icaruszhu.github.io/) in September 2020. Please feel free change them. 
