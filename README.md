@@ -48,7 +48,7 @@ There are a lot more you can do with your static personal site. For example, you
 
 It is worth noting that many third-party jekyll plug-ins are not supported by Github pages. For example,  one of my favorite plugins [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) is not supported by gh-pages by default. I need to build my site locally and  need to use jekyll to locally and need to use ```git subtree``` to push html contents to the remote branch. However, you do not have to worry about this for the time being. The out-of-the-box features of gh-pages are more than sufficient for building a static personal site remotely. 
 
-Of course, you may also wish to learn ~git~ [version control](https://git-scm.com/) in order to get to the bottom of what is ultimately going on. You can find local software carpentry workshops that teach ```git``` and plenty of online tutorials.  
+Of course, you may also wish to learn ```git``` [version control](https://git-scm.com/) in order to get to the bottom of what is ultimately going on. You can find local software carpentry workshops that teach ```git``` and plenty of online tutorials.  
 
 # More informaiton
 
