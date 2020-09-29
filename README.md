@@ -46,7 +46,7 @@ There are a lot more you can customise. For example, you can change layout files
 	
 	  You can check if this ```gh-pages``` branch is created. Here is another screenshot that ```gh-pages``` has indeed be created and ticked!
 	
-	  <img src="https://raw.githubusercontent.com/icaruszhu/student-gh-page-template/gh-pages/image/shot-new-gh-pages-created.png" alt="gh-pages branch is created" style="zoom:80%;" />
+	  <img src="https://raw.githubusercontent.com/icaruszhu/student-gh-page-template/gh-pages/image/shot-new-gh-pages-created.png" alt="gh-pages branch is created" style="zoom: 67%;" />
 	
 	-  Locally, create a ```gh-pages``` in your git repo on your laptop from the terminal. Copy and paste the below two lines of code:
 
@@ -64,6 +64,10 @@ There are a lot more you can do with your static personal site. For example, you
 It is worth noting that many third-party jekyll plug-ins are not supported by Github pages. For example,  one of my favorite plugins [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) is not supported by gh-pages by default. I need to build my site locally and  need to use jekyll to locally and need to use ```git subtree``` to push html contents to the remote branch. However, you do not have to worry about this for the time being. The out-of-the-box features of gh-pages are more than sufficient for building a static personal site remotely. 
 
 Of course, you may also wish to learn ```git``` [version control](https://git-scm.com/) in order to get to the bottom of what is ultimately going on. You can find local software carpentry workshops that teach ```git``` and plenty of online tutorials.  
+
+Here is a screenshot that shows how  ```git``` is used to "push" the local ```gh-pages``` changes to their remote counterpart on Github. Please do not feel alarmed that the displayed text in my terminal is Chinese, but this does not really matter.)  
+
+![](https://raw.githubusercontent.com/icaruszhu/student-gh-page-template/gh-pages/image/git-update-push.png)
 
 # More informaiton
 
