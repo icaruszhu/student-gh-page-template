@@ -10,7 +10,7 @@ Aspirational and hardworking young lawyer interested in law and technology  @ Bi
 
 # Language 
 
-English (native), Chinese  
+English (native), Chinese (fluent), Scottish Gaelic (basic) 
 
 # Education
 
@@ -26,8 +26,6 @@ English (native), Chinese
 # Volunteering Experience 
 - British Museum Volunteer Guide 
 
-
-
 # IT Skills
 - Markdown
 - GNU/Linux
@@ -35,10 +33,11 @@ English (native), Chinese
 - Zotero reference management 
 
 # Hobby
-- Music 
-- Netball
+- Classical Music (esp. Haydn, Satie and [Wu Tiao Ren](https://music.douban.com/musician/105231/) )
+- Tai Chi
+- Esoteric Programming Languages
 
 # Contact
 
 # YALA's Note 
-This is a template CV with placeholder contents originally written by YALA in September 2020. Please feel free to change it. 
+This template CV contains placeholder contents originally written by [YALA](https://icaruszhu.github.io/) in September 2020. Please feel free change them. 

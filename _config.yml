@@ -1,13 +1,13 @@
 # Setup
 
-title: [Tem Plate]
-description:  Law Student @ Birmingham Law School
+title: Tem Plate   # put your name to replace "Tem Plate
+description:  Law Student @ Birmingham Law School # you can change this line as well
 tagline: 
 baseurl: ""
 locale: "en"
 
-author: student name 
-email: name@e.mail
+author: student name # your name
+email: name@e.mail  # your email
 
 
 show_downloads: false
@@ -16,6 +16,7 @@ theme: jekyll-theme-architect
 
 include:
     - _pages
+
   
 # Gems
 gems:
@@ -23,7 +24,7 @@ gems:
 
   
 # url
-url: 'https://www.birmingham.ac.uk/schools/law/index.aspx'
+url: 'https://www.birmingham.ac.uk/schools/law/index.aspx' # you can change the url as well
   
 #Others
 markdown: kramdown
