@@ -3,7 +3,7 @@ author: Chen Wei Zhu
 ---
 # Personal site template for Chen's personal tutees
 
-- This  template is made by [Yet Another Legal Academic (YALA)](https://icaruszhu.github.io/) initially for my personal tutees at Birmingham Law School. However, it can be used outside this small context and that's why decide to publish it. Please feel free to download, fork, alter, remix, or do whatever you want with the repo template to suit your own need. It is licensed under the permissive MIT License.
+- This  template is made by [Yet Another Legal Academic (YALA)](https://icaruszhu.github.io/) initially for my personal tutees at Birmingham Law School. Please feel free to download, fork, alter, remix, or do whatever you want with the repo template to suit your own need. It is licensed under the permissive MIT License.
 
 - You can delete this README.md page later if you wish. 
 
@@ -20,10 +20,10 @@ author: Chen Wei Zhu
 # Modification for a quick start
 There are two files in the repo you need to personalise in order to create your own site. I use some placeholder words such as the fictitious student name "Tem Plate" and the fabled "University of Rashomon ".  Please do change them as they only exist in [Meinong's jungle](https://en.wikipedia.org/wiki/Meinong%27s_jungle):-)
 
-##  ```index.md``` 
+##  1) ```index.md``` 
 ```index.md``` is the file where your CV live. You can add information such as your background, education, experience, award, hobby, aspiration etc. 
 
-## ```_config.yml``` 
+## 2) ```_config.yml``` 
 You definite need to modify ``_config.yml```, especially these two places:
 ~~~yml
 title: Tem Plate   # put your name to replace "Tem Plate
