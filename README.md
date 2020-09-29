@@ -51,11 +51,17 @@ There are a lot more you can customise. For example, you can change layout files
 	-  Locally, create a ```gh-pages``` in your git repo on your laptop from the terminal. Copy and paste the below two lines of code:
 
 ```bash
- git checkout -b gh-pages  # create a local gh-pages brach
+  git checkout -b gh-pages  # create a local gh-pages brach
  
- git push --set-upstream origin gh-pages # link the local gh-pages with the remote gh-pages
+  git push --set-upstream origin gh-pages # link the local gh-pages with the remote gh-pages
 ```
 Now, it's done! It may take a small while for your site live. So be a bit patient.
+
+p.s. Since you are going to work only with the newly created ```gh-pages``` in future for your personal site, you may choose to delete the remote  ```master``` branch by  typing this command in the terminal:
+~~~bash
+      git push origin :master
+~~~
+
 
 # Next step: when you become a more advanced user ...
 
@@ -67,7 +73,7 @@ Of course, you may also wish to learn ```git``` [version control](https://git-sc
 
 Here is a screenshot that shows how  ```git``` is used to "push" the local ```gh-pages``` changes to their remote counterpart on Github. Please do not feel alarmed that the displayed text in my terminal is Chinese, but this does not really matter.)  
 
-![](https://raw.githubusercontent.com/icaruszhu/student-gh-page-template/gh-pages/image/git-update-push.png)
+<img src="https://raw.githubusercontent.com/icaruszhu/student-gh-page-template/gh-pages/image/git-update-push.png" style="zoom: 50%;" />
 
 # More informaiton
 
