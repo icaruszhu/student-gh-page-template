@@ -82,3 +82,18 @@ Here is a screenshot that shows how  ```git``` is used to "push" the local ```gh
 https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages
 
 Happy hacking!
+
+# citation
+```bibtex
+@software{chen_wei_zhu_2020_4058914,
+  author       = {Chen Wei Zhu},
+  title        = {{Building  a static personal site on Github -- A 
+                   guide with a simple template for law students}},
+  month        = sep,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {0.8.0},
+  doi          = {10.5281/zenodo.4058914},
+  url          = {https://doi.org/10.5281/zenodo.4058914}
+}
+```
